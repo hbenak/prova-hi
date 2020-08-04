@@ -8,13 +8,14 @@ Requisitos:
 # Instalação
 
 ### Frontend
-Abrir no TERMINAL (Mac) ou PROMPT (Windows) acessar a pasta `prova-hi` e executar o comando: `npm install`
-Em seguida executar o comando `node servidor.js`
+Abrir no TERMINAL (Mac) ou PROMPT (Windows) acessar a pasta `prova-hi` e executar o comando: `npm install`  
+Em seguida executar o comando `node servidor.js` 
 
   - será executada aplicação na porta 8080
   - acessar pelo browser http://localhost:8080/
 
-caso não seja possível rodar no localhost, é possível mudar o endpoint que chama o JSON para:
-getData('https://run.mocky.io/v3/77c240c0-68f6-4e9f-a0dc-580852799d53')
+Caso não seja possível rodar no localhost, é possível mudar o endpoint que chama o JSON para:  
+getData('https://run.mocky.io/v3/77c240c0-68f6-4e9f-a0dc-580852799d53')  
+Dessa forma é possível ver o funcionamento do arquivo local ('file:///diretorio-local-de-arquivos/prova-hi/index.html')
 
 **Dúvidas? entre em contato: hbenak@gmail.com**
