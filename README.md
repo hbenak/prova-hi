@@ -1,5 +1,4 @@
 # Desafio de Frontend
-#
 Componente: árvore de itens, que pode ter vários itens encadeados (itens filhos).
 #
 
@@ -10,7 +9,7 @@ Requisitos:
 # Instalação
 
 ### Frontend
-Abrir no TERMINAL (Mac) ou PROMPT (Windows) acessar a pasta `prova-frontend` e executar o comando: `npm install`
+Abrir no TERMINAL (Mac) ou PROMPT (Windows) acessar a pasta `prova-hi` e executar o comando: `npm install`
 Em seguida executar o comando `node servidor.js`
 
   - será executada aplicação na porta 8080
