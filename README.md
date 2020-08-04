@@ -1,7 +1,6 @@
 # Desafio de Frontend
-Componente: árvore de itens, que pode ter vários itens encadeados (itens filhos).
+### Componente: árvore de itens, que pode ter vários itens encadeados (itens filhos).
 #
-
 Requisitos:
   - nodeJS (12.12.0)
   - npm (6.12.0)
